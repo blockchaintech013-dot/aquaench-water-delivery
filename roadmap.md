@@ -1,0 +1,3 @@
+- [ ] Build the Aquaench storefront and responsive product, brand, and contact sections.
+- [ ] Implement local cart, theme, demo account, bottle selection, checkout, and saved orders.
+- [ ] Verify pricing rules, checkout flow, preview rendering, and mobile layout.
